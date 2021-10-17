@@ -1,6 +1,7 @@
 # About Airspot
  Airspot is a free and open source project dedicated to make planespotting easier. It was made by
  a 12 year old aviation geek, youtuber and computer/code nerd. Feel free to contribute and help make the project better.
+ I hope you enjoy using airspot and watching it do its ✨MAGIC🪄✨
  # How it works
  Airspot works by using a machine learning model made with Teachable Machine (https://teachablemachine.withgoogle.com/)
  If you would like to help train the model or anything machine learning related please DM me via Discord Flight Sim Central#6235
