@@ -10,6 +10,12 @@ html {
     margin-top: auto;
     margin-bottom: auto;
 }
+.contribute {
+    font-size: 60px;
+}
+.links__below {
+    font-size: 50px;
+}
 #end__of__page {
     position: relative;
     bottom: -100px;
